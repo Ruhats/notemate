@@ -8,6 +8,8 @@ public class NotemateApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(NotemateApplication.class, args);
+        SpringApplication.run(NotemateApplication.class, args);
+       
     }
 
 }
